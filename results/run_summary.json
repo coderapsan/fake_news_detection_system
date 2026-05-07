@@ -1,0 +1,7 @@
+{
+  "feature_engineering_best_config": "title_plus_text_uni_bigram",
+  "best_model_by_metric": "f1",
+  "top_model": "Linear SVM",
+  "sample_per_class": null,
+  "rows_used": 39089
+}

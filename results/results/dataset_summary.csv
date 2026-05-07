@@ -1,0 +1,11 @@
+metric,value
+rows_before_cleaning,44898.0
+missing_title,0.0
+missing_text,0.0
+duplicates_removed,5798.0
+short_rows_removed,11.0
+rows_after_cleaning,39089.0
+fake_after_cleaning,17895.0
+real_after_cleaning,21194.0
+mean_char_len,2496.1210570748804
+median_char_len,2279.0

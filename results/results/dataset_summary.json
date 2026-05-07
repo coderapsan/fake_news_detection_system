@@ -1,0 +1,12 @@
+{
+  "rows_before_cleaning": 44898,
+  "missing_title": 0,
+  "missing_text": 0,
+  "duplicates_removed": 5798,
+  "short_rows_removed": 11,
+  "rows_after_cleaning": 39089,
+  "fake_after_cleaning": 17895,
+  "real_after_cleaning": 21194,
+  "mean_char_len": 2496.1210570748804,
+  "median_char_len": 2279.0
+}
